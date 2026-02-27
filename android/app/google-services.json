@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003268097101",
+    "project_id": "metan-chat",
+    "storage_bucket": "metan-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003268097101:android:5d3da6751b278c8ab4c804",
+        "android_client_info": {
+          "package_name": "com.example.gym_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfoqA2NdN9AXVixNtqkk3Nz-DoHbYCxMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
